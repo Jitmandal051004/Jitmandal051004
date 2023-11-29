@@ -1,7 +1,7 @@
-[![MasterHead](img/lazy_programmer_dribbble-02_4x.png)]
+![MasterHead](img/Banner-image-4.webp)
 <h1 align="center">Hi 👋, I'm Indrajit Mandal</h1>
 <h3 align="center">A passionate frontend developer who wants to make cool projects and become a coder nomad</h3>
-<img align="right" alt="Coding" width="400" src="img/Banner-image-4.webp">
+<img align="right" alt="Coding" width="400" src="img/lazy_programmer_dribbble-02_4x.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jitmandal051004&label=Profile%20views&color=0e75b6&style=flat" alt="jitmandal051004" /> </p>
 
